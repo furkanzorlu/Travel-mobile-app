@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seyehat Rehberi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Notlarım</string>
+    <string name="title_notifications">Döviz</string>
+	<string name="title_notificationss">Yakıt Hesabı</string>
+	<string name="title_notificationsss">Gezmelisin</string>
+
+</resources>
